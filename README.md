@@ -1,5 +1,5 @@
 # Crewai Agents with Ollama to create Storybooks
-- Start: 11AM _ 18 Mar 2024
+- Start: 10AM _ 18 Mar 2024
 - End: 03PM _ 18 Mar 2024
 
 ## Lý do:
