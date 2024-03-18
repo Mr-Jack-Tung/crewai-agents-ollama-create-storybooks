@@ -24,7 +24,7 @@
   - và các bộ thư viện khác nếu hệ thống yêu cầu
 - Copy source code file https://mer.vin/2024/03/crewai-groq-create-story-books/
 - Cài đặt và chạy Ollama mistral
-- Sửa lại code để chạy các phần chính là gen ra câu chuyện, bỏ qua phần tạo ảnh mô tả
+- Sửa lại source code để chạy các phần chính là gen ra câu chuyện, cắt bỏ phần tạo ảnh mô tả để giảm thiểu sự phức tạp và thời gian xử lý
 - Tạo file template.md
 - và .. chạy thử ~~> Ok! ~> Nhóm Agents này đã cùng phối hợp làm việc với nhau một cách ăn ý và tạo ra sản phẩm 'story.pdf'
 
