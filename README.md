@@ -12,6 +12,7 @@
 ## Ứng dụng:
 - Tạo ra các Nhóm làm việc (Crew, Team) gồm nhiều Nhân sự (Agents) làm việc nhóm với nhau để hoàn thành một công việc cụ thể, có thể ứng dụng tạo ra các công ty ảo (gồm nhiều nhóm làm việc, nhân sự ảo bằng AI có các chức năng và chuyên môn khác nhau) để hoàn thành các công việc thực tế. Ví dụ như công ty phần mềm, công ty phát triển games, công ty thiết kế, công ty sáng tạo nội dung, công ty quảng cáo, công ty nghiên cứu thị trường, công ty tư vấn kinh doanh, công ty đầu tư, công ty tư vấn luật, thậm chí là các tổ chức y tế, giáo dục ...
 - Introducing AI Coworkers... _ https://www.youtube.com/watch?v=GwTZwbKv4mA
+- ChatDev stands as a virtual software company that operates through various intelligent agents holding different roles _ https://github.com/OpenBMB/ChatDev
 
 ![alt-text](https://github.com/Mr-Jack-Tung/crewai-agents-ollama-create-storybooks/blob/main/chat-dev-software-company-1.jpeg)
 
