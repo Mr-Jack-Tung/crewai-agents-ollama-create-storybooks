@@ -2,6 +2,7 @@
 # Create Illustrated Storybooks Instantly with Crew AI Agents! (Groq)
 # https://www.youtube.com/watch?v=vWukuS48RbY
 # https://mer.vin/2024/03/crewai-groq-create-story-books/
+# https://blog.langchain.dev/crewai-unleashed-future-of-ai-agent-teams/
 
 # pip install crewai
 # pip install -U 'crewai[tools]' mdpdf
