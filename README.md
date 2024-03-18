@@ -1,4 +1,4 @@
-# Crewai Agents with Ollama to create Storybooks
+# Crewai Agents with Ollama to create Storybooks (simplify testing)
 - Start: 10AM _ 18 Mar 2024
 - End: 03PM _ 18 Mar 2024
 
