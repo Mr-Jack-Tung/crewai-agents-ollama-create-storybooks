@@ -20,6 +20,7 @@
 - CrewAI Groq Create Story Books _ By praison (March 17, 2024) _ https://mer.vin/2024/03/crewai-groq-create-story-books/
 - AI Agents Crews are game-changing _ https://blog.langchain.dev/crewai-unleashed-future-of-ai-agent-teams/
 - crewAI: Cutting-edge framework for orchestrating role-playing, autonomous AI agents _ https://github.com/joaomdmoura/crewAI
+- CrewAI Tutorial - Next Generation AI Agent Teams (Fully Local) _ https://www.youtube.com/watch?v=tnejrr-0a94
 
 ![alt-text](https://github.com/Mr-Jack-Tung/crewai-agents-ollama-create-storybooks/blob/main/crewAI-mindmap.jpg)
 
