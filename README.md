@@ -1,4 +1,6 @@
 # Crewai Agents with Ollama to create Storybooks
+- Start: 11AM _ 18 Mar 2024
+- End: 03PM _ 18 Mar 2024
 
 ## Lý do:
 - Create Illustrated Storybooks Instantly with Crew AI Agents! (Groq) _ https://www.youtube.com/watch?v=vWukuS48RbY
