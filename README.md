@@ -2,6 +2,8 @@
 - Start: 10AM _ 18 Mar 2024
 - End: 03PM _ 18 Mar 2024
 
+![alt-text](https://github.com/Mr-Jack-Tung/crewai-agents-ollama-create-storybooks/blob/main/crewai_logo.jpg)
+
 ## Lý do:
 - Từ trước đến giờ cũng đã ấp ủ làm cái em bot tự động thực hiện một số công việc giúp mình, tuy nhiên 1 em thì cũng chưa đã, muốn có vài ba em "phục vụ" cơ. Muốn và ý tưởng thì là vậy nhưng thực hiện thì cũng chưa cụ thể ra làm sao nên đành tạm gác ý tưởng đó lại đã ^^
 - Tối qua 17 Mar 2024, lúc sắp đi ngủ rồi, tự dưng xem Youtube thấy có anh Mervin Praison làm cái demo Create Illustrated Storybooks Instantly with Crew AI Agents! (Groq) _ https://www.youtube.com/watch?v=vWukuS48RbY , chỉ nghe cái tiêu đề thôi cũng thấy quá đã rồi, thành ra lại phải xem cho hết và tìm hiểu xem cái CrawAi Agents là gì mà nó làm hay vậy. Càng xem thì lại càng ... mất ngủ vì ... sướng ^^
