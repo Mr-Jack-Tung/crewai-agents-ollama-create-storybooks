@@ -9,6 +9,9 @@
 - Tối qua 17 Mar 2024, lúc sắp đi ngủ rồi, tự dưng xem Youtube thấy có anh Mervin Praison làm cái demo Create Illustrated Storybooks Instantly with Crew AI Agents! (Groq) _ https://www.youtube.com/watch?v=vWukuS48RbY , chỉ nghe cái tiêu đề thôi cũng thấy quá đã rồi, thành ra lại phải xem cho hết và tìm hiểu xem cái CrawAi Agents là gì mà nó làm hay vậy. Càng xem thì lại càng ... mất ngủ vì ... sướng ^^
 - Sáng nay 18 Mar 2024, bắt tay vào làm một mạch để test cho xong cái source code demo của anh Mervin Praison, xem nó chạy local thế nào ... vậy mà nó work (at 3PM today), ngon ghê ^^ ... nó chạy roẹt một cái ra luôn thành phẩm là một file PDF truyện đọc trẻ em, mình ngắt phần tạo ảnh vì chỉ muốn làm một cái test demo thật đơn giản xem cái CrewAi Agents nó phối hợp làm việc với nhau ra sao ^^
 
+## Ứng dụng:
+- Tạo ra các Nhóm làm việc (Crew, Team) gồm nhiều Nhân sự (Agents) làm việc nhóm với nhau để hoàn thành một công việc cụ thể, có thể ứng dụng tạo ra các công ty ảo (gồm nhiều nhóm làm việc, nhân sự ảo bằng AI có các chức năng và chuyên môn khác nhau) để hoàn thành các công việc thực tế. Ví dụ như công ty phần mềm, công ty thiết kế, công ty sáng tạo nội dung, công ty quảng cáo, công ty nghiên cứu thị trường, công ty tư vấn kinh doanh, công ty đầu tư ...
+
 ## Tham khảo:
 - Create Illustrated Storybooks Instantly with Crew AI Agents! (Groq) _ https://www.youtube.com/watch?v=vWukuS48RbY
 - CrewAI Groq Create Story Books _ By praison (March 17, 2024) _ https://mer.vin/2024/03/crewai-groq-create-story-books/
