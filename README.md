@@ -3,6 +3,11 @@
 - End: 03PM _ 18 Mar 2024
 
 ## Lý do:
+- Từ trước đến giờ cũng đã ấp ủ làm cái em bot tự động thực hiện một số công việc giúp mình, tuy nhiên 1 em thì cũng chưa đã, muốn có vài ba em "phục vụ" cơ. Muốn và ý tưởng thì là vậy nhưng thực hiện thì cũng chưa cụ thể ra làm sao nên đành tạm gác ý tưởng đó lại đã ^^
+- Tối qua 17 Mar 2024, lúc sắp đi ngủ rồi, tự dưng xem Youtube thấy có anh Mervin Praison làm cái demo Create Illustrated Storybooks Instantly with Crew AI Agents! (Groq) _ https://www.youtube.com/watch?v=vWukuS48RbY , chỉ nghe cái tiêu đề thôi cũng thấy quá đã rồi, thành ra lại phải xem cho hết và tìm hiểu xem cái CrawAi Agents là gì mà nó làm hay vậy. Càng xem thì lại càng ... mất ngủ vì ... sướng ^^
+- Sáng nay 18 Mar 2024, bắt tay vào làm một mạch để test cho xong cái source code demo của anh Mervin Praison, xem nó chạy local thế nào ... vậy mà nó work (3PM), ngon ghê ^^ ... nó chạy roẹt một cái ra luôn thành phẩm là một file PDF truyện đọc trẻ em, mình ngắt phần tạo ảnh vì chỉ muốn làm một cái test demo thật đơn giản xem cái CrewAi Agents nó phối hợp làm việc với nhau ra sao ^^
+
+## Tham khảo:
 - Create Illustrated Storybooks Instantly with Crew AI Agents! (Groq) _ https://www.youtube.com/watch?v=vWukuS48RbY
 - AI Agents Crews are game-changing _ https://blog.langchain.dev/crewai-unleashed-future-of-ai-agent-teams/
 - crewAI: Cutting-edge framework for orchestrating role-playing, autonomous AI agents _ https://github.com/joaomdmoura/crewAI 
