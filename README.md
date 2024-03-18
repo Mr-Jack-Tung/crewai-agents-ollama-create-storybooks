@@ -12,5 +12,16 @@
 - AI Agents Crews are game-changing _ https://blog.langchain.dev/crewai-unleashed-future-of-ai-agent-teams/
 - crewAI: Cutting-edge framework for orchestrating role-playing, autonomous AI agents _ https://github.com/joaomdmoura/crewAI 
 
-## Thử nghiệm:
+## Quá trình thử nghiệm:
+- Cài đặt các bộ thư viện cần thiết:
+  - pip install crewai
+  - pip install -U 'crewai[tools]' mdpdf
+  - và các bộ thư viện khác nếu hệ thống yêu cầu
+- Copy source code file https://mer.vin/2024/03/crewai-groq-create-story-books/
+- Cài đặt và chạy Ollama mistral
+- Sửa lại code để chạy các phần chính là gen ra câu chuyện, bỏ qua phần tạo ảnh mô tả
+- Tạo file template.md
+- và .. chạy thử ~~> Ok! ~> Nhóm Agents này đã cùng phối hợp làm việc với nhau một cách ăn ý và tạo ra sản phẩm 'story.pdf'
+
+## Kết quả thử nghiệm:
 ![alt-text](https://github.com/Mr-Jack-Tung/crewai-agents-ollama-create-storybooks/blob/main/crewai-agents-ollama-create-storybooks_results_Screenshot%202024-03-18_01.jpg)
