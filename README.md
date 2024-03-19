@@ -38,3 +38,10 @@
 
 ## Kết quả thử nghiệm:
 ![alt-text](https://github.com/Mr-Jack-Tung/crewai-agents-ollama-create-storybooks/blob/main/crewai-agents-ollama-create-storybooks_results_Screenshot%202024-03-18_01.jpg)
+
+## Update CrewAi ver 0.22.5
+- step 1: pip install 'crewai[tools]'==0.22.5
+- step 2: crewai create company_analysis_crew
+- step 3: :D
+
+![alt-text](https://github.com/Mr-Jack-Tung/crewai-agents-ollama-create-storybooks/blob/main/crewai%20create%20company_analysis_crew.jpg)
