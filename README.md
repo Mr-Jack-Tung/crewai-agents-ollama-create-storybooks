@@ -42,6 +42,6 @@
 ## Update CrewAi ver 0.22.5
 - step 1: pip install 'crewai[tools]'==0.22.5
 - step 2: crewai create company_analysis_crew
-- step 3: :D
+- step 3: (^_^)
 
 ![alt-text](https://github.com/Mr-Jack-Tung/crewai-agents-ollama-create-storybooks/blob/main/crewai%20create%20company_analysis_crew.jpg)
