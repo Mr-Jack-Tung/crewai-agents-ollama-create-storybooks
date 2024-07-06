@@ -1,6 +1,7 @@
 # Crewai Agents with Ollama to create Storybooks (simplify testing)
 - Start: 10AM _ 18 Mar 2024
 - End: 03PM _ 18 Mar 2024
+- If you like what I do, give me a star ^^ ~> ⭐
 
 ![alt-text](https://github.com/Mr-Jack-Tung/crewai-agents-ollama-create-storybooks/blob/main/crewai_logo.jpg)
 
